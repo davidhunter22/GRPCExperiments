@@ -10,3 +10,5 @@ Go to https://localhost:7235/swagger/index.html
 The JSON service can be accessed in a browser
 Go to https://localhost:7235/v1/greeter/foo
 This end point is defined in the greet.proto
+You can pass an argument using
+https://localhost:7235/v1/greeter/foo?name=blah
